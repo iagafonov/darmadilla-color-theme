@@ -1,0 +1,21 @@
+{
+    "name": "darmadilla-color-theme",
+    "displayName": "Darmadilla color theme",
+    "description": "Visual Studio Code color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darmadilla",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darmadilla.json"
+            }
+        ]
+    }
+}
