@@ -4,7 +4,7 @@
     "description": "Visual Studio Code color theme",
     "publisher": "iagafonov",
     "version": "0.0.1",
-    "repository": "https://github.com/iagafonov/darmadilla-color-theme"
+    "repository": "https://github.com/iagafonov/darmadilla-color-theme",
     "engines": {
         "vscode": "^1.55.0"
     },
